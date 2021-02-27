@@ -7,7 +7,9 @@ public class CEO extends PERSONAS{
 
     public CEO() {
     }
-
+    
+    
+    
     public CEO(String Nombre, String numeroregistro, String apellido, String nacionalidad, 
             String títulouniversitario, String edad, String añosexperiencia, String anioslaborando, 
             String usuario, String pass) {
