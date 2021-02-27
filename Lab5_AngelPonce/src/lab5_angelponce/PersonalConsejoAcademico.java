@@ -7,6 +7,7 @@ public class PersonalConsejoAcademico extends PERSONAS{
 
     public PersonalConsejoAcademico() {
     }
+    
 
     public PersonalConsejoAcademico(String nombre, String numeroregistro, String apellido, String cargo, String puesto, String cantidaddebecados, String numeropersonascargo, String lugarsegundotrabajo, String cargosegundotrabajo, String nombreacuerdo, String usuario, String pass) {
         super(usuario, pass);

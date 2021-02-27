@@ -18,8 +18,6 @@ public class PersonalDePlanta extends PERSONAS{
         this.claseasignado = claseasignado;
     }
 
-    
-    
     public PersonalDePlanta(String nombre, String numeroregistro, String apellido, String cargo, String facultadpertenece, String carreraasignado, String claseasignado) {
         this.nombre = nombre;
         this.numeroregistro = numeroregistro;
